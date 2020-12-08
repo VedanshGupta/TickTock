@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(255);
 
   translate(200,200);
   rotate(-90);
